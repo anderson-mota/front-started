@@ -1,0 +1,11 @@
+/app/bower_components
+/node_modules
+logs/*
+!.gitkeep
+node_modules/
+bower_components/
+tmp
+/.sass-cache
+.DS_Store
+/resource/bower_components
+.idea
